@@ -1,0 +1,16 @@
+{
+  "name": "my-telegram-bot",
+  "version": "1.0.0",
+  "main": "server.js",
+  "dependencies": {
+    "axios": "^0.21.4",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "moment": "^2.30.1",
+    "moment-timezone": "^0.5.45",
+    "node-telegram-bot-api": "^0.66.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
